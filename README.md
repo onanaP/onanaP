@@ -5,8 +5,8 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- 🌺 j'aime Danielle 
-<!---
+- 🌺 j'aime Danielle
+- 🥳 j'adore Jésus il est mon précieux 
 onanaP/onanaP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
